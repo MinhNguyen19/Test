@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity { //test6
 
         btn = findViewById(R.id.button);
 
+        // Test 7
+
     }
 }
