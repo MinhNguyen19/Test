@@ -11,8 +11,6 @@ public class MainActivity extends AppCompatActivity { //test
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Test 2
-
         btn = findViewById(R.id.button);
 
     }
