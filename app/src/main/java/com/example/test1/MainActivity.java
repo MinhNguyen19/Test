@@ -7,6 +7,11 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity { //test6
     Button btn;
+
+    public void methodTest(){
+        System.out.println("hi");
+
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
