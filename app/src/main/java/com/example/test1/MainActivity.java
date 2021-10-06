@@ -12,8 +12,13 @@ public class MainActivity extends AppCompatActivity { //test6
         super.onCreate(savedInstanceState);
 
         btn = findViewById(R.id.button);
-
+        //1
+        //2
+        //3
+        //4
+        //5
         // Test 7
+
 
     }
 }
