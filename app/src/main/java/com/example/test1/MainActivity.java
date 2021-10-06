@@ -22,8 +22,13 @@ public class MainActivity extends AppCompatActivity { //test6
         //3
         //4
         //5
+        //6
         // Test 7
 
 
+    }
+
+    public int addNum() {
+        return 1;
     }
 }
